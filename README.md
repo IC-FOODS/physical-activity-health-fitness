@@ -3,7 +3,7 @@
 
 # physical-activity-health-fitness
 
-This ontology... YOUR DESCRIPTION HERE
+This ontology is maintained by Chiara Cecchini (@clairececchini)
 
 ## Versions
 
