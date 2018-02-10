@@ -5,3 +5,4 @@ src/ontology/pahf.obo
 src/ontology/pahf.owl
 semantic.cache
 bin/
+*.DS_Store
